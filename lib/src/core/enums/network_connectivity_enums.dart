@@ -1,0 +1,1 @@
+enum NetworkConnectivityResult { online, offline }
