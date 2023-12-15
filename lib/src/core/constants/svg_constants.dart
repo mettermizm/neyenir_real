@@ -3,4 +3,5 @@ class SVGConstants {
   static const neyenir = 'assets/svg/neyenir.svg';
   static const sparkle = 'assets/svg/sparkle.svg';
   static const nyLogo = 'assets/svg/ny_logo.svg';
+  // static const nyNewLogo = 'assets/svg/neyenirlogo.svg';
 }
