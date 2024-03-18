@@ -32,7 +32,7 @@ part 'app_router.gr.dart';
       page: SplashView,
       initial: true,
     ),
-    CustomRoute(
+    CustomRoute(  
       path: '/home',
       name: 'HomeRouter',
       page: EmptyRouterPage,
